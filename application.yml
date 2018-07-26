@@ -9,6 +9,6 @@ spring:
     name: microservicecloud-config-wb-dev
 ---
 spring:
-  profiles: test # c测试环境
+  profiles: test # 测试环境
   application:
     name: microservicecloud-config-wb-test
